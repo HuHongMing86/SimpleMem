@@ -20,7 +20,7 @@
 ## 🔥 News
 
 
-- **[01/08/2026]** We've set up a Discord server and WeChat group to make it easier to collaborate and exchange ideas on this project. Welcome to join the Group to share your thoughts, ask questions, or contribute your ideas! 🔥 Join our [Discord](https://discord.gg/86gKQ8AW) and [WeChat Group](fig/wechat_logo.png) Now!
+- **[01/08/2026]** We've set up a Discord server and WeChat group to make it easier to collaborate and exchange ideas on this project. Welcome to join the Group to share your thoughts, ask questions, or contribute your ideas! 🔥 Join our [Discord](https://discord.gg/86gKQ8AW) and [WeChat Group](fig/wechat_logo.jpg) Now!
 - **[01/05/2026]** SimpleMem paper was released on [arXiv](https://arxiv.org/abs/2601.02553)!
 
 ---
